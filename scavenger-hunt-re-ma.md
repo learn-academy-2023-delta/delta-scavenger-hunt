@@ -12,3 +12,6 @@ Memorial day, Juneteenth, Independence day, learn summer break 07/10-07/14
 
 What Slack channels are you in?
 -  veterans, pets, everyone, etc
+
+What is a thread in Slack and when would you use one?
+What is a thread in Slack and when would you use one? A tread is a way to keep track of messages about the same topic and keeping the channel organized
