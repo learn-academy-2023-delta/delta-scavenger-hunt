@@ -2,24 +2,59 @@
 
 Create 
 - Where can you find your classroom Google drive?
+    - Delta slack channel - bookmarked to the top
 - What is currently in your classroom Google drive?
+    - Brave space contract, daily schedules, lecture videos, tech talk signup, one on one signups
 - What is the date of the first day of your cohort's internship?
+    - August 7th - on the schedule above notable dates
 - What holidays fall during your class where we don’t have class?
+    - Memorial day - May 29th
+    - Juneteenth - June 19th
+    - July 4th
+    - LEARN Summer break - July 10-July 14
 - What Slack channels are you in?
+    - Pets
+    - Veterens
+    - Random
+    - Volunteer
+    - 2023d
+    - Jobs
+    - Everybody
 - What is a thread in Slack and when would you use one?
+    - Replying to a post in slack as a comment - responding and containing in a relative post
 - How many people are in the LEARN everybody channel?
+    - 851
 - What items are currently pinned in your cohort Slack channel?
+    - Delta classroom schedule
+    - Screenshot of week 1 schedule
 - What items are bookmarked in your Slack channel?
+    - Daily schedule
+    - Google Drive
+    - GitHub
 - When are office hours this week?
+    - 5-6 on Wednesday
 - What is your favorite Slack emoji?
+    - Thumbs up, octopus, meowparty, 100%
 - What is the fourth unit of the class?
+    - Ruby
 - What should you do if you are going to miss class?
+    - Inform instructors
+    - Message 2023d
 - What time does the classroom Zoom open every morning?
+    - 8:45am
 - What is the tech stack at LEARN?
+    - Ruby on Rails, Postgresql, React
 - What terminal command will show you all the content of your current directory?
+    - ls
 - What is the terminal command to move one level closer to the root directory?
+    - cd ..
 - How do you open the text editor from the terminal?
+    - code .
 - In HTML and CSS, what is the difference between a class and an id?
+    - id is specific to one thing, class can be applied to many elements 
 - What is an HMTL attribute?
+    - provides more information to the element (modifies the element)
 - What is CSS?
+    - Styling - Cascading Style Sheets
 - What is git?
+    - Version tracking software on local machine - Global Information Tracker ... or the other thing...
